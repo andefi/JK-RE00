@@ -1,3 +1,2 @@
 ls /root/deveops
-ifconfig
-jk
+useradd git
